@@ -1,0 +1,266 @@
+<OverlayData>
+	<MarkerCategory name="sandsweptisles" DisplayName="Sandswept Isles">
+		<MarkerCategory name="diflurite" DisplayName="diflurite Ore" iconFile="Data\Difluorite_Crystal.png"/>
+		<MarkerCategory name="caches" DisplayName="Trade Caches" iconFile="Data\Cowrie_League_Cloth_Crate.png"/>
+		<MarkerCategory name="forgottencaches" DisplayName="Forgotten Caches" iconFile="Data\chest.png"/>
+		<MarkerCategory name="sand" DisplayName="Sand Pile" iconFile="Data\sand.png"/>
+		<MarkerCategory name="oriore" DisplayName="Ori Ore" iconFile="Data\Orichalcum_Ore.png"/>
+		<MarkerCategory name="richoriore" DisplayName="Rich Ori Ore" iconFile="Data\Orichalcum_Ore.png"/>
+		<MarkerCategory name="ancientwood" DisplayName="Ancient Wood" iconFile="Data\Ancient_Wood_Log.png"/>
+		<MarkerCategory name="doors" DisplayName="Communications Control Doors"/>
+	</MarkerCategory>
+	<POIs>
+		<!-- Diflurite Ore -->
+		<POI MapID="1271" xpos="-22.7916" ypos="144.823" zpos="887.265" type="sandsweptisles.diflurite" GUID="2xmUnMKQpUWsMBvpjVwk6g=="/>
+		<POI MapID="1271" xpos="5.80621" ypos="149.373" zpos="1016.97" type="sandsweptisles.diflurite" GUID="xSDsZkIbcEabVmKCuNyolw=="/>
+		<POI MapID="1271" xpos="287" ypos="51.5772" zpos="894.415" type="sandsweptisles.diflurite" GUID="wtvHoGjgEUGCTVP0CTiIDg=="/>
+		<POI MapID="1271" xpos="378.749" ypos="23.4614" zpos="599.407" type="sandsweptisles.diflurite" GUID="aupz4Ia1nEOW1A6qtIh7SA=="/>
+		<POI MapID="1271" xpos="511.524" ypos="0.88372" zpos="769.773" type="sandsweptisles.diflurite" GUID="a20QSckkGUujkzPF0n15Ag=="/>
+		<POI MapID="1271" xpos="753.519" ypos="-10.4674" zpos="873.959" type="sandsweptisles.diflurite" GUID="4jKGobK6eUuceJs2oIuBiA=="/>
+		<POI MapID="1271" xpos="-681.855" ypos="-8.63484" zpos="-330.304" type="sandsweptisles.diflurite" GUID="7eHyhptOH06Tyz7o6sJIGA=="/>
+		<POI MapID="1271" xpos="650.133" ypos="23.2377" zpos="-1109.59" type="sandsweptisles.diflurite" GUID="WR/24IFZPUaEITVSvqMrzQ=="/>
+		<POI MapID="1271" xpos="-84.673" ypos="-17.5246" zpos="422.746" type="sandsweptisles.diflurite" GUID="3CUqTzwF40iH8hC7WmCZAw=="/>
+		<POI MapID="1271" xpos="586.153" ypos="7.59232" zpos="-119.933" type="sandsweptisles.diflurite" GUID="AFxNiuA8x0614n/CULDmPg=="/>
+		<POI MapID="1271" xpos="810.5" ypos="-7.77625" zpos="-310.224" type="sandsweptisles.diflurite" GUID="40sKwgtvy0W//0bdKNcIYw=="/>
+		<POI MapID="1271" xpos="604.026" ypos="22.7915" zpos="-1150.59" type="sandsweptisles.diflurite" GUID="BhsPs4wEkkuGMcyKIyBFmw=="/>
+		<POI MapID="1271" xpos="491.245" ypos="3.87499" zpos="-970.302" type="sandsweptisles.diflurite" GUID="mh3B+DUOpUOOuN6UZ1gdSQ=="/>
+		<POI MapID="1271" xpos="564.428" ypos="51.0837" zpos="-735.453" type="sandsweptisles.diflurite" GUID="NQ53G9+t6UKyR8vxI+U/ZQ=="/>
+		<POI MapID="1271" xpos="132.467" ypos="88.1101" zpos="83.7441" type="sandsweptisles.diflurite" GUID="R6O6rF1Xg0Cvbj2cZalknw=="/>
+		<POI MapID="1271" xpos="222.177" ypos="77.2117" zpos="-39.5272" type="sandsweptisles.diflurite" GUID="OBZd8cRH5keNflFmyAeDTw=="/>
+		<POI MapID="1271" xpos="613.343" ypos="9.71006" zpos="-593.727" type="sandsweptisles.diflurite" GUID="SRfIj1eiukGbLV4uH5ty6Q=="/>
+		<POI MapID="1271" xpos="573.734" ypos="51.0199" zpos="-719.877" type="sandsweptisles.diflurite" GUID="WgQ/irNuWkSLrjCXZqCELg=="/>
+		<POI MapID="1271" xpos="96.4107" ypos="-127.84" zpos="-163.964" type="sandsweptisles.diflurite" GUID="XO0p1e30EkiImma1COeorg=="/>
+		<POI MapID="1271" xpos="-471.659" ypos="-0.138061" zpos="812.446" type="sandsweptisles.diflurite" GUID="cueG9GB9ikSF1WVb7Et65w=="/>
+		<POI MapID="1271" xpos="-450.55" ypos="9.99549" zpos="-34.9746" type="sandsweptisles.diflurite" GUID="Mk+u1L1DgEyX26mGTmbEtQ=="/>
+		<POI MapID="1271" xpos="-622.724" ypos="34.5569" zpos="7.71845" type="sandsweptisles.diflurite" GUID="UvQveiWalkmDTlq6I9Xpew==" />
+		<POI MapID="1271" xpos="117.829" ypos="-4.47248" zpos="-552.416" type="sandsweptisles.diflurite" GUID="nLLuWh4Cy0aadTTImfQanQ==" />
+		<POI MapID="1271" xpos="126.322" ypos="0.67209" zpos="-604.792" type="sandsweptisles.diflurite" GUID="u3aIRRBGCE+eDMErzkz0vw==" />
+		<POI MapID="1271" xpos="274.951" ypos="0.0504606" zpos="-573.957" type="sandsweptisles.diflurite" GUID="p2XwtMcYMEqaRFdOVvnRwQ==" />
+		<POI MapID="1271" xpos="576.036" ypos="48.6089" zpos="-552.658" type="sandsweptisles.diflurite" GUID="5JxPui8epkGX5v+34CsceQ==" />
+		<POI MapID="1271" xpos="686.291" ypos="34.0228" zpos="-600.333" type="sandsweptisles.diflurite" GUID="VD02oKEYTU66qxJLe84dEg==" />
+		<POI MapID="1271" xpos="537.509" ypos="50.9988" zpos="-742.909" type="sandsweptisles.diflurite" GUID="Axb5Y01T006MKYX8ssk0lg==" />
+		<POI MapID="1271" xpos="558.997" ypos="43.3663" zpos="-837.674" type="sandsweptisles.diflurite" GUID="ZPCZSQzYPEuDoO7BMig2Nw==" />
+		<POI MapID="1271" xpos="665.729" ypos="21.3668" zpos="-899.25" type="sandsweptisles.diflurite" GUID="LmgrQNYRqkiUdWM8/eNQhQ==" />
+		<POI MapID="1271" xpos="696.553" ypos="0.855565" zpos="-1049.87" type="sandsweptisles.diflurite" GUID="CPXpWcWxk0eRIA6Hnn94QQ==" />
+		<POI MapID="1271" xpos="-774.019" ypos="-5.49459" zpos="-288.659" type="sandsweptisles.diflurite" GUID="0xMkNL5flkyU/vERqA1Y7g==" />
+		<POI MapID="1271" xpos="-431.217" ypos="1.35627" zpos="-599.316" type="sandsweptisles.diflurite" GUID="s19fpJ9o2kCVHBMdULjMMg==" />
+		<POI MapID="1271" xpos="-142.78" ypos="-7.23958" zpos="-1052.78" type="sandsweptisles.diflurite" GUID="NSO9kBRmJ0ikw/89eqc/pg==" />
+		<POI MapID="1271" xpos="679.103" ypos="56.4477" zpos="-1210.58" type="sandsweptisles.diflurite" GUID="+KYvIwVb9kiuVzo/h372/Q==" />
+		<POI MapID="1271" xpos="609.613" ypos="54.2631" zpos="-1239.87" type="sandsweptisles.diflurite" GUID="PNzc9Zhzy0SGilNuHD41Zg==" />
+		<POI MapID="1271" xpos="686.142" ypos="46.9926" zpos="-1112.21" type="sandsweptisles.diflurite" GUID="tdY7XLR3Z0iQMLkcS8IY3w==" />
+		<POI MapID="1271" xpos="812.947" ypos="2.73253" zpos="-363.405" type="sandsweptisles.diflurite" GUID="+EktxiWFrE6FiJ0mnB8Epw==" />
+		<POI MapID="1271" xpos="606.299" ypos="-4.03836" zpos="974.035" type="sandsweptisles.diflurite" GUID="l0QcoKDb4EaH03EMFjgTMg==" />
+		<POI MapID="1271" xpos="314.988" ypos="24.1745" zpos="715.309" type="sandsweptisles.diflurite" GUID="Xj8Ix+dAm0mZ31LLFiwJDA==" />
+		<POI MapID="1271" xpos="196.003" ypos="35.2453" zpos="638.322" type="sandsweptisles.diflurite" GUID="hSgcwVyJdEydijpAUkkEbA==" />
+		<POI MapID="1271" xpos="79.867" ypos="37.2596" zpos="515.357" type="sandsweptisles.diflurite" GUID="NmAoKhi620Stu9ns2gjsPQ==" />
+		<POI MapID="1271" xpos="-69.1349" ypos="0.669231" zpos="329.51" type="sandsweptisles.diflurite" GUID="e5gaBUEbs0OJuma0mWTeFg==" />
+		<POI MapID="1271" xpos="131.544" ypos="77.539" zpos="-386.593" type="sandsweptisles.diflurite" GUID="+P884nZuaEq/yMSdq8ZL9g==" />
+		<POI MapID="1271" xpos="276.342" ypos="49.4042" zpos="-258.37" type="sandsweptisles.diflurite" GUID="bcc/xuAkr0yh4hC4AHzk5Q==" />
+		<POI MapID="1271" xpos="-494.836" ypos="130.254" zpos="83.0352" type="sandsweptisles.diflurite" GUID="58bmdUkTI0GZDLvwKd6k2A==" />
+		<POI MapID="1271" xpos="-358.018" ypos="66.5816" zpos="15.8992" type="sandsweptisles.diflurite" GUID="DrVjA4J5F02TALlJEqHzFg==" />
+		<POI MapID="1271" xpos="-125.643" ypos="86.5541" zpos="-80.3507" type="sandsweptisles.diflurite" GUID="scDjAG2aVkuvSF469in8lQ==" />
+		<POI MapID="1271" xpos="622.012" ypos="3.19449" zpos="-548.982" type="sandsweptisles.diflurite" GUID="bfUDAQ8kn0uBNyXFmQWr+A==" />
+		<POI MapID="1271" xpos="-40.1346" ypos="40.8521" zpos="772.339" type="sandsweptisles.diflurite" GUID="T+ce0rljoEeFuwxdJD0jGA==" />
+		<POI MapID="1271" xpos="153.114" ypos="29.1064" zpos="644.802" type="sandsweptisles.diflurite" GUID="5xo3CRaoE06c5xdbwgCfpA==" />
+		<POI MapID="1271" xpos="450.807" ypos="19.329" zpos="667.866" type="sandsweptisles.diflurite" GUID="5qHeP08rFEO4T33qmISSWA==" />
+		<POI MapID="1271" xpos="775.858" ypos="-19.6554" zpos="1030.77" type="sandsweptisles.diflurite" GUID="BtXV4Urg9EO4WrtQKzOYXg==" />
+		<POI MapID="1271" xpos="412.716" ypos="73.0833" zpos="1043.58" type="sandsweptisles.diflurite" GUID="2icxmaKjjU2fLA3fy/v4fw==" />
+		<POI MapID="1271" xpos="150.618" ypos="88.1374" zpos="1162.11" type="sandsweptisles.diflurite" GUID="/xyweR+igEWbr2wb4ZER3w==" />
+		<POI MapID="1271" xpos="-318.596" ypos="98.0581" zpos="1039.37" type="sandsweptisles.diflurite" GUID="UCgMRJo0tE+Uai8YGLdLXw==" />
+		<POI MapID="1271" xpos="-552.372" ypos="-9.45392" zpos="823.621" type="sandsweptisles.diflurite" GUID="N1juCQ/HiUqNW2dG86Efaw==" />
+		<POI MapID="1271" xpos="-384.167" ypos="96.0042" zpos="865.942" type="sandsweptisles.diflurite" GUID="VTKHEwYeHkK44miEh25jzw==" />
+		<POI MapID="1271" xpos="698.579" ypos="3.86063" zpos="348.447" type="sandsweptisles.diflurite" GUID="JSdkcZfcYkmei8BQ+WP8Vg==" />
+		<POI MapID="1271" xpos="458.559" ypos="2.21588" zpos="352.819" type="sandsweptisles.diflurite" GUID="C5zvbqrksU6PEV4Ca7U5Yg==" />
+		<POI MapID="1271" xpos="857.416" ypos="-11.8585" zpos="-176.233" type="sandsweptisles.diflurite" GUID="nAbxiPtkOEGAFWFvsA9sWg==" />
+		<POI MapID="1271" xpos="780.922" ypos="3.31517" zpos="-710.957" type="sandsweptisles.diflurite" GUID="m/naG3nCakCMpOliiNbO3w==" />
+		<POI MapID="1271" xpos="597.49" ypos="1.17623" zpos="-581.17" type="sandsweptisles.diflurite" GUID="f7reChvSzEKhN6Mg7jLN4Q==" />
+		<POI MapID="1271" xpos="623.203" ypos="14.1193" zpos="-640.321" type="sandsweptisles.diflurite" GUID="+SelCOmh70aSIQ97YJZrdA==" />
+		<POI MapID="1271" xpos="291.953" ypos="-6.58814" zpos="-624.261" type="sandsweptisles.diflurite" GUID="609O7bONYkaNz0dLd4R9kw==" />
+		<POI MapID="1271" xpos="322.376" ypos="0.939845" zpos="-866.965" type="sandsweptisles.diflurite" GUID="24HoPoxvCE6gcYtgnEsHYg==" />
+		<POI MapID="1271" xpos="569.16" ypos="43.2917" zpos="-855.507" type="sandsweptisles.diflurite" GUID="gjAzAol740WlzpwO0alh1Q==" />
+		<POI MapID="1271" xpos="589.1" ypos="43.157" zpos="-846.063" type="sandsweptisles.diflurite" GUID="coQypunIhEqM42Kiok6G/Q==" />
+		<POI MapID="1271" xpos="671.177" ypos="1.44488" zpos="-1058.21" type="sandsweptisles.diflurite" GUID="I/UJgZivgUSDTNTNQEQ0wA==" />
+		<POI MapID="1271" xpos="557.598" ypos="29.1592" zpos="-1059.6" type="sandsweptisles.diflurite" GUID="RoiHX+oxWkSMeB1WggfKuQ==" />
+		<POI MapID="1271" xpos="495.242" ypos="40.2854" zpos="-1189.36" type="sandsweptisles.diflurite" GUID="RqVEQSfIJkGEtMkGE/BGCQ==" />
+		<POI MapID="1271" xpos="576.419" ypos="48.3924" zpos="-1228.58" type="sandsweptisles.diflurite" GUID="+e/j+a1H6E6/lcTPiUuDYg==" />
+		<POI MapID="1271" xpos="781.258" ypos="3.06782" zpos="-762.938" type="sandsweptisles.diflurite" GUID="T4a6QWbwm0Ovv2A+B7vGZg==" />
+		<POI MapID="1271" xpos="-157.814" ypos="1.005" zpos="-910.605" type="sandsweptisles.diflurite" GUID="nr67GmvKTUWlAKyUL+jK6w==" />
+		<POI MapID="1271" xpos="-133.137" ypos="156.281" zpos="-318.309" type="sandsweptisles.diflurite" GUID="8xkTBQzBpEiWuSwxgkBokA==" />
+		<POI MapID="1271" xpos="-275.491" ypos="43.2092" zpos="232.328" type="sandsweptisles.diflurite" GUID="swuDa3nguk6j8dpLon0/3g==" />
+		<POI MapID="1271" xpos="183.885" ypos="162.494" zpos="41.5988" type="sandsweptisles.diflurite" GUID="nPf9r72CHk+rt0jmzbCKrg==" />
+		<POI MapID="1271" xpos="261.108" ypos="51.4178" zpos="-481.744" type="sandsweptisles.diflurite" GUID="mWV4zXoDCE2h8DyIOCc/qA==" />
+		<POI MapID="1271" xpos="-369.142" ypos="9.40075" zpos="-305.163" type="sandsweptisles.diflurite" GUID="sIw2n2I4/UWzPA5oNUkdRg==" />
+		<POI MapID="1271" xpos="-146.511" ypos="-20.3599" zpos="415.481" type="sandsweptisles.diflurite" GUID="5MXMrcYiIkS9HCJaqVOe2Q==" />
+		<POI MapID="1271" xpos="589.164" ypos="30.3713" zpos="362.013" type="sandsweptisles.diflurite" GUID="kkjSFPNPGU2u8EVXXp/WiQ==" />
+		<POI MapID="1271" xpos="254.718" ypos="1.11584" zpos="320.613" type="sandsweptisles.diflurite" GUID="wjctwm4EhkqrfEzhFthlGw==" />
+		<POI MapID="1271" xpos="407.044" ypos="5.97819" zpos="358.211" type="sandsweptisles.diflurite" GUID="TUuUg3pZ9kyq32Cm/dQuXQ==" />
+		<POI MapID="1271" xpos="634.385" ypos="1.3307" zpos="621.916" type="sandsweptisles.diflurite" GUID="MSRDc3hxSUa7oxgVbOs2aw==" />
+		<POI MapID="1271" xpos="-461.99" ypos="37.5727" zpos="1088.82" type="sandsweptisles.diflurite" GUID="p6bhAuJofkSLHnCy+Tb3cw==" />
+		<POI MapID="1271" xpos="166.105" ypos="40.2421" zpos="-810.327" type="sandsweptisles.diflurite" GUID="d5xnT2DAK0yeUVluzaOyLA==" />
+		<POI MapID="1271" xpos="453.599" ypos="2.2772" zpos="-1145.22" type="sandsweptisles.diflurite" GUID="oQNPD2gozUy0FXOplqXkqg==" />	
+		<POI MapID="1271" xpos="668.606" ypos="1.35791" zpos="-1031.83" type="sandsweptisles.diflurite" GUID="KBImtgF1+0WrXgv7GeBIgw==" />
+		<POI MapID="1271" xpos="623.302" ypos="46.4594" zpos="-534.688" type="sandsweptisles.diflurite" GUID="CH6kpKZCNUWlWSpFYePAAA==" />
+		<POI MapID="1271" xpos="609.865" ypos="13.4455" zpos="-595.541" type="sandsweptisles.diflurite" GUID="qmTpPzquSkijSGCZ3GNeGw==" />
+		<POI MapID="1271" xpos="109.162" ypos="28.6427" zpos="744.52" type="sandsweptisles.diflurite" GUID="0yhSoMvohkSBkVF0F9jZmg==" />
+		<POI MapID="1271" xpos="478.284" ypos="81.2923" zpos="856.674" type="sandsweptisles.diflurite" GUID="vPEr8i6ZP0eQHBC3Xjw6zg==" />
+		<POI MapID="1271" xpos="558.248" ypos="64.5087" zpos="953.37" type="sandsweptisles.diflurite" GUID="Kon8pIiFnkaovIBpFdPzvg==" />
+		<POI MapID="1271" xpos="-563.259" ypos="-3.42109" zpos="769.844" type="sandsweptisles.diflurite" GUID="VOS1US5bpUSxw7gxvpssfQ==" />
+		<POI MapID="1271" xpos="-635.774" ypos="-3.8582" zpos="-308.622" type="sandsweptisles.diflurite" GUID="v/gHiJk4eke4Tfszda32Cw==" />	
+		<POI MapID="1271" xpos="475.207" ypos="52.6364" zpos="-707.834" type="sandsweptisles.diflurite" GUID="pDuF+zzEbEWxfPznV4vJGw==" />
+		<POI MapID="1271" xpos="104.666" ypos="1.63767" zpos="-1010.37" type="sandsweptisles.diflurite" GUID="DnpfA2VIE0iRn66ERq2U8w==" />
+		<POI MapID="1271" xpos="772.935" ypos="-7.06312" zpos="-88.4142" type="sandsweptisles.diflurite" GUID="vB5TrBr7Gk+x+QN5UrxpWQ==" />
+		<POI MapID="1271" xpos="243.145" ypos="84.7702" zpos="-310.188" type="sandsweptisles.diflurite" GUID="EeuR2SBoF025xOL2Cma8hQ==" />
+		<POI MapID="1271" xpos="71.184" ypos="-5.25707" zpos="464.094" type="sandsweptisles.diflurite" GUID="TaItBeEtbUCaDbXOMkr6uw==" />
+		<POI MapID="1271" xpos="325.399" ypos="1.73579" zpos="514.479" type="sandsweptisles.diflurite" GUID="o03wi1EKnkuys9H6VjwbYQ==" />
+		<POI MapID="1271" xpos="837.631" ypos="-17.3225" zpos="784.619" type="sandsweptisles.diflurite" GUID="U6q+WYV1BEixmKGkfOnxKA==" />
+		<POI MapID="1271" xpos="315.526" ypos="81.938" zpos="811.083" type="sandsweptisles.diflurite" GUID="8vU1ghpB0kqLKGyC8BlTsg==" />
+		<POI MapID="1271" xpos="287.737" ypos="38.6274" zpos="814.49" type="sandsweptisles.diflurite" GUID="sOVE80S+mEe3PaUFUkIZfQ==" />
+		<POI MapID="1271" xpos="-3.39801" ypos="93.7345" zpos="1078.94" type="sandsweptisles.diflurite" GUID="6SIrw9mrFkKM/oKnjiQFWQ==" />
+		<POI MapID="1271" xpos="470.125" ypos="32.1625" zpos="367.03" type="sandsweptisles.diflurite" GUID="rX7hxvy2yU2F6GXtfmRzAA==" />
+		<POI MapID="1271" xpos="583.239" ypos="-2.74381" zpos="237.79" type="sandsweptisles.diflurite" GUID="3dk4Au9UnUeQuGezEKRehA==" />
+		<POI MapID="1271" xpos="825.863" ypos="-12.3079" zpos="-2.12671" type="sandsweptisles.diflurite" GUID="RId2ECONEUKSTEpuWC5Wgg==" />
+		<POI MapID="1271" xpos="668.094" ypos="54.5212" zpos="-1171.28" type="sandsweptisles.diflurite" GUID="i6xkJW7xLEipxMczjXUnpA==" />
+		<POI MapID="1271" xpos="-691.4" ypos="-6.02418" zpos="-176.506" type="sandsweptisles.diflurite" GUID="y3Z8vwiJtU+5Fc+QgzOabA==" />
+		<POI MapID="1271" xpos="-538.641" ypos="-3.33684" zpos="602.809" type="sandsweptisles.diflurite" GUID="8H6py+7g8U+IJeIhiLvdSQ==" />
+		<POI MapID="1271" xpos="305.295" ypos="22.629" zpos="651.503" type="sandsweptisles.diflurite" GUID="+nq6v5dZlk6Ukmln8uNzzQ==" />
+		<POI MapID="1271" xpos="662.802" ypos="65.8289" zpos="-660.953" type="sandsweptisles.diflurite" GUID="gvFQ5PwAT0283pB53QTh/A==" />
+		<POI MapID="1271" xpos="811.891" ypos="-17.254" zpos="961.166" type="sandsweptisles.diflurite" GUID="YHYkaTa8DkijQp0VbGVwkQ==" />
+		<POI MapID="1271" xpos="714.938" ypos="-8.37482" zpos="-264.85" type="sandsweptisles.diflurite" GUID="sh169bZfCEKh8GBqVctuDw==" />
+		<POI MapID="1271" xpos="64.5302" ypos="-5.16708" zpos="-527.419" type="sandsweptisles.diflurite" GUID="R66nXdlqrU6BIPCZWVBEdQ==" />
+		<POI MapID="1271" xpos="-278.728" ypos="-48.811" zpos="-977.774" type="sandsweptisles.diflurite" GUID="FAm9xKyUzECawBBLS+BRnw==" />
+		<POI MapID="1271" xpos="-200.776" ypos="-24.9901" zpos="361.726" type="sandsweptisles.diflurite" GUID="1NTjiVBUX0+EV0xe4ZZXmw==" />
+		<POI MapID="1271" xpos="418.978" ypos="1.71264" zpos="827.369" type="sandsweptisles.diflurite" GUID="lg4nIePg6ESViOf5bpJm7Q==" />
+		<POI MapID="1271" xpos="237.993" ypos="102.212" zpos="-259.274" type="sandsweptisles.diflurite" GUID="PGZBxO4paE+sVH+QXNDaTQ==" />
+		<POI MapID="1271" xpos="-7.52394" ypos="59.2941" zpos="-413.094" type="sandsweptisles.diflurite" GUID="2anceLTyS0iKlpH43QkIFg==" />
+		<POI MapID="1271" xpos="252.533" ypos="-14.3064" zpos="456.885" type="sandsweptisles.diflurite" GUID="oOny2kE0+0KMrNKSbcmwNA=="/>
+		<POI MapID="1271" xpos="-9.02977" ypos="-3.49995" zpos="-970.014" type="sandsweptisles.diflurite" GUID="YDDSYGWFnUqXkcu1DS3koQ=="/>
+		<POI MapID="1271" xpos="457.801" ypos="42.7027" zpos="-797.057" type="sandsweptisles.diflurite" GUID="BeqEgT5pokS48GbsL601jw=="/>
+		<POI MapID="1271" xpos="73.047" ypos="159.019" zpos="93.9312" type="sandsweptisles.diflurite" GUID="V01c9MhoqUakenlvDNdlDg=="/>
+		<POI MapID="1271" xpos="296.516" ypos="0.132056" zpos="-550.508" type="sandsweptisles.diflurite" GUID="FCtvAdgh0EOzm7ChH91cbg=="/>
+		<POI MapID="1271" xpos="170.414" ypos="29.7657" zpos="741.747" type="sandsweptisles.diflurite" GUID="UeaAasVcck6vIFb+nvVCAA=="/>
+		<POI MapID="1271" xpos="-643.674" ypos="-20.144" zpos="808.736" type="sandsweptisles.diflurite" GUID="jJgKksfviU+cXv+ecIpa4g=="/>
+		<POI MapID="1271" xpos="252.533" ypos="-14.3064" zpos="456.885" type="sandsweptisles.diflurite" GUID="oOny2kE0+0KMrNKSbcmwNA=="/>
+		<POI MapID="1271" xpos="-9.02977" ypos="-3.49995" zpos="-970.014" type="sandsweptisles.diflurite" GUID="YDDSYGWFnUqXkcu1DS3koQ=="/>
+		<POI MapID="1271" xpos="457.801" ypos="42.7027" zpos="-797.057" type="sandsweptisles.diflurite" GUID="BeqEgT5pokS48GbsL601jw=="/>
+		<POI MapID="1271" xpos="73.047" ypos="159.019" zpos="93.9312" type="sandsweptisles.diflurite" GUID="V01c9MhoqUakenlvDNdlDg=="/>
+		<POI MapID="1271" xpos="296.516" ypos="0.132056" zpos="-550.508" type="sandsweptisles.diflurite" GUID="FCtvAdgh0EOzm7ChH91cbg=="/>
+		<POI MapID="1271" xpos="170.414" ypos="29.7657" zpos="741.747" type="sandsweptisles.diflurite" GUID="UeaAasVcck6vIFb+nvVCAA=="/>
+		<POI MapID="1271" xpos="-643.674" ypos="-20.144" zpos="808.736" type="sandsweptisles.diflurite" GUID="jJgKksfviU+cXv+ecIpa4g=="/>
+		<POI MapID="1271" xpos="675.226" ypos="-11.9558" zpos="999.889" type="sandsweptisles.diflurite" GUID="iKyRebB/qEiPjytiE6Mnzg=="/>
+		<POI MapID="1271" xpos="701.4" ypos="3.14742" zpos="-841.693" type="sandsweptisles.diflurite" GUID="4HehHTeEtkaHJVSQhnkbZQ=="/>
+				
+		<!--- Trade Caches -->
+		<POI MapID="1271" xpos="-139.85" ypos="53.0975" zpos="94.7161" type="sandsweptisles.caches" GUID="TD2MZSEtSkG771nbaP90RQ=="/>
+		<POI MapID="1271" xpos="-303.49" ypos="52.2531" zpos="144.543" type="sandsweptisles.caches" GUID="ZD9JlZVyeUqg0JaLdp1A/g=="/>
+		<POI MapID="1271" xpos="-393.438" ypos="14.5608" zpos="-369.069" type="sandsweptisles.caches" GUID="6uy1AVvZKEG4YRcNv7cvGQ=="/>
+		<POI MapID="1271" xpos="281.543" ypos="32.0034" zpos="715.456" type="sandsweptisles.caches" GUID="/UKIFpS1b0iesrXfW+avMQ=="/>
+		<POI MapID="1271" xpos="612.91" ypos="20.4515" zpos="1012.16" type="sandsweptisles.caches" GUID="lPCU2ylhy0eabIluDZWl2A=="/>
+		<POI MapID="1271" xpos="862.605" ypos="6.33556" zpos="-924.119" type="sandsweptisles.caches" GUID="58Y6/ecYCESsbM5b6UWpvg=="/>
+		<POI MapID="1271" xpos="-536.409" ypos="49.1839" zpos="-246.684" type="sandsweptisles.caches" GUID="WB86lNoPE0uiJ46ulb8z3A=="/>
+		<POI MapID="1271" xpos="427.087" ypos="113.303" zpos="894.061" type="sandsweptisles.caches" GUID="BMHHEmeRoEWFKBfSnjpp4A=="/>
+		<POI MapID="1271" xpos="-16.4535" ypos="5.74588" zpos="-216.335" type="sandsweptisles.caches" GUID="VEEXmuKDnUSmi3/PPK9h7w=="/>
+		<POI MapID="1271" xpos="-228.593" ypos="86.1936" zpos="-463.141" type="sandsweptisles.caches" GUID="tOmihhf4mUOPD8zV3q07+g=="/>
+		<POI MapID="1271" xpos="-243.601" ypos="142.031" zpos="-329.7" type="sandsweptisles.caches" GUID="RexzS4lvmkGlknhItnMLwA=="/>
+		<POI MapID="1271" xpos="56.4468" ypos="94.5292" zpos="799.05" type="sandsweptisles.caches" GUID="S4dDRKS4106VdO5gMIXFjg=="/>
+		<POI MapID="1271" xpos="682.024" ypos="1.19189" zpos="658.041" type="sandsweptisles.caches" GUID="S32JSQ1tTEuJFJJ37Y+sxg=="/>
+		<POI MapID="1271" xpos="694.259" ypos="0.64468" zpos="705.933" type="sandsweptisles.caches" GUID="lacIUsjuPkuspJFHr3SSJQ=="/>
+		<POI MapID="1271" xpos="538.32" ypos="23.2716" zpos="656.603" type="sandsweptisles.caches" GUID="YMPaqV9CNEiB9mUMErId1A=="/>
+		<POI MapID="1271" xpos="660.853" ypos="12.464" zpos="867.898" type="sandsweptisles.caches" GUID="+hRIathOp0GmQ/nR8MQlNw=="/>
+		<POI MapID="1271" xpos="548.685" ypos="71.6621" zpos="900.741" type="sandsweptisles.caches" GUID="jTWUWWlIw0OUGxl1hEDClw=="/>
+		<POI MapID="1271" xpos="-454.435" ypos="2.82239" zpos="823.948" type="sandsweptisles.caches" GUID="lKiUFkMnbkOdxCDm73xyVw=="/>
+		<POI MapID="1271" xpos="-573.695" ypos="8.08805" zpos="-52.812" type="sandsweptisles.caches" GUID="ZviimVf2BUicuE6AhsiGLA=="/>
+		<POI MapID="1271" xpos="514.469" ypos="39.7846" zpos="-1149.6" type="sandsweptisles.caches" GUID="3unxI2oFb02/NJpJxeqUyQ=="/>
+		<POI MapID="1271" xpos="549.743" ypos="33.6298" zpos="-916.033" type="sandsweptisles.caches" GUID="5bamywvP/0epGbN8DDVEnA=="/>
+		<POI MapID="1271" xpos="688.507" ypos="4.94923" zpos="-132.589" type="sandsweptisles.caches" GUID="T2Gs1wwR/U6O2EOmsQ+zIA=="/>
+		<POI MapID="1271" xpos="650.969" ypos="15.2923" zpos="-602.839" type="sandsweptisles.caches" GUID="9+lggnHBNEKQ2vIFEhTaGg=="/>
+		<POI MapID="1271" xpos="567.362" ypos="38.5179" zpos="-168.636" type="sandsweptisles.caches" GUID="5TXGcVbmLkWneRHYlzYS4A=="/>
+		<POI MapID="1271" xpos="486.171" ypos="57.0226" zpos="-248.731" type="sandsweptisles.caches" GUID="sxe73AHTLkKfzGNKEoCISA=="/>
+		<POI MapID="1271" xpos="31.8731" ypos="31.9865" zpos="602.114" type="sandsweptisles.caches" GUID="AyDZ5RM7yUm7ZnMt7lGi5w=="/>
+		<POI MapID="1271" xpos="-196.762" ypos="92.1803" zpos="1071.53" type="sandsweptisles.caches" GUID="63K/4UaeEECv2eTy0BEBLA=="/>
+		<POI MapID="1271" xpos="-53.4986" ypos="162.305" zpos="42.6415" type="sandsweptisles.caches" GUID="lh6dg5HU2UaGbhoeQncV1Q=="/>
+		<POI MapID="1271" xpos="-189.978" ypos="76.3786" zpos="49.7802" type="sandsweptisles.caches" GUID="ASFt+sKgBE+Y9bUvhDjGgg=="/>
+		<POI MapID="1271" xpos="286.318" ypos="25.3901" zpos="-109.809" type="sandsweptisles.caches" GUID="FAXiHpGaC02Czuap0lFbDA=="/>
+		<POI MapID="1271" xpos="59.3813" ypos="50.5329" zpos="-448.065" type="sandsweptisles.caches" GUID="mg0BcEWoSEWWE8eTcN9frw=="/>
+		<POI MapID="1271" xpos="159.6" ypos="22.3722" zpos="-330.701" type="sandsweptisles.caches" GUID="Fqe1BrL4jkWk1aush89+mw=="/>
+		<POI MapID="1271" xpos="371.251" ypos="140.734" zpos="-102.37" type="sandsweptisles.caches" GUID="FO/a5Fo7p0SIBLbZoChHGQ=="/>
+		<POI MapID="1271" xpos="-572.081" ypos="1.16945" zpos="602.151" type="sandsweptisles.caches" GUID="FVjEJq3ViEaYa45zFZmCeQ=="/>
+		<POI MapID="1271" xpos="-101.715" ypos="131.574" zpos="-349.809" type="sandsweptisles.caches" GUID="dXVpe4G9r0uA+9oRKY1nug=="/>
+		<POI MapID="1271" xpos="-192.816" ypos="3.11119" zpos="532.937" type="sandsweptisles.caches" GUID="UTS0Z9t/8EmSUy4Es8eGYA=="/>
+		<POI MapID="1271" xpos="471.265" ypos="30.8319" zpos="-291.31" type="sandsweptisles.caches" GUID="ED0nypyvv0eM3G+NTq+xEQ=="/>
+		<POI MapID="1271" xpos="-398.748" ypos="32.6445" zpos="186.145" type="sandsweptisles.caches" GUID="MIgXRttlC0yooQMCQXNMCQ=="/>
+		
+		<!--- Forgotten Caches -->
+		<POI MapID="1271" xpos="809.046" ypos="27.7634" zpos="-486.603" type="sandsweptisles.forgottencaches" GUID="sqs17ivuEEWXLFqaYN6Uuw=="/>
+		<POI MapID="1271" xpos="25.8925" ypos="44.6309" zpos="-615.608" type="sandsweptisles.forgottencaches" GUID="xXDRSPm3JE+yqIMK+yzNrw=="/>
+		<POI MapID="1271" xpos="-387.925" ypos="7.73991" zpos="-33.3425" type="sandsweptisles.forgottencaches" GUID="f8klZZY2uUy38+KaWqbBnQ=="/>
+		<POI MapID="1271" xpos="25.8925" ypos="44.6309" zpos="-615.608" type="sandsweptisles.forgottencaches" GUID="xXDRSPm3JE+yqIMK+yzNrw=="/>
+		
+		<!--- Sand Pile -->
+		<POI MapID="1271" xpos="361.468" ypos="5.89461" zpos="355.935" type="sandsweptisles.sand" GUID="vjXD2LUTnES9pz9zV7im3A=="/>
+		<POI MapID="1271" xpos="479.246" ypos="3.80165" zpos="-1212.74" type="sandsweptisles.sand" GUID="GjUgvbUa7k6HCW6vQ1RbUA=="/>
+		<POI MapID="1271" xpos="141.795" ypos="2.99025" zpos="229.577" type="sandsweptisles.sand" GUID="sfTkAfZR1Eev4mH/47GDZg=="/>
+		<POI MapID="1271" xpos="-56.4008" ypos="1.24811" zpos="272.779" type="sandsweptisles.sand" GUID="Ta1XdSsvE0uk4fSEK/dIgA=="/>
+		<POI MapID="1271" xpos="-518.027" ypos="1.08152" zpos="1025.04" type="sandsweptisles.sand" GUID="YVC4zqXoGU24N3xFNG2N4w=="/>
+		<POI MapID="1271" xpos="598.879" ypos="0.276883" zpos="-560.967" type="sandsweptisles.sand" GUID="+ncMeJPlaky34ut0AD3+0g=="/>
+		<POI MapID="1271" xpos="-433.56" ypos="1.82956" zpos="-240.411" type="sandsweptisles.sand" GUID="zlDPk/irJUyRTqV+LIYVLg=="/>
+		<POI MapID="1271" xpos="602.372" ypos="0.886778" zpos="-46.9388" type="sandsweptisles.sand" GUID="f/gbjCNdAEqhTdFyR3F6oA=="/>
+		<POI MapID="1271" xpos="-527.167" ypos="2.44681" zpos="200.311" type="sandsweptisles.sand" GUID="uqzV6XPfSkaWmttDj0ZJFQ=="/>
+		<POI MapID="1271" xpos="-186.979" ypos="3.25178" zpos="-781.851" type="sandsweptisles.sand" GUID="mDbSBsQkIkyGIUnQzdLMtg=="/>
+		<POI MapID="1271" xpos="351.134" ypos="2.13993" zpos="-966.73" type="sandsweptisles.sand" GUID="oqzXN3fGkUiYHKCIayBiTQ=="/>
+		<POI MapID="1271" xpos="623.645" ypos="2.55091" zpos="-240.822" type="sandsweptisles.sand" GUID="Cczhmnix/USxrpmk8AxA+Q=="/>
+		<POI MapID="1271" xpos="291.014" ypos="3.25528" zpos="538.764" type="sandsweptisles.sand" GUID="+AlerxNld0uPGYcZIC4B8g=="/>
+		<POI MapID="1271" xpos="-591.327" ypos="3.10645" zpos="551.713" type="sandsweptisles.sand" GUID="YQZWvoCsbUCDhklX8SZ5zw=="/>
+		<POI MapID="1271" xpos="-191.604" ypos="3.33388" zpos="305.643" type="sandsweptisles.sand" GUID="idMgCW9680OyhcuBiZBNUw=="/>
+		<POI MapID="1271" xpos="-322.729" ypos="3.11743" zpos="226.414" type="sandsweptisles.sand" GUID="c/UNhP2Xjk2bvxy7C6qi1g=="/>
+		<POI MapID="1271" xpos="-14.3528" ypos="0.558153" zpos="498.363" type="sandsweptisles.sand" GUID="62CD7JTRlUaK/hOnolNjPA=="/>
+		<POI MapID="1271" xpos="697.491" ypos="0.262016" zpos="630.949" type="sandsweptisles.sand" GUID="jQ0vH/UXl0SjOibhVn7rwA=="/>
+		<POI MapID="1271" xpos="-14.3528" ypos="0.558153" zpos="498.363" type="sandsweptisles.sand" GUID="62CD7JTRlUaK/hOnolNjPA=="/>
+		<POI MapID="1271" xpos="697.491" ypos="0.262016" zpos="630.949" type="sandsweptisles.sand" GUID="jQ0vH/UXl0SjOibhVn7rwA=="/>
+		<POI MapID="1271" xpos="669.413" ypos="7.27553" zpos="865.82" type="sandsweptisles.sand" GUID="XBb/yo9ySkei9UeSaK8cew=="/>
+		<POI MapID="1271" xpos="549.345" ypos="0.572031" zpos="728.648" type="sandsweptisles.sand" GUID="SstLuLrJG0mhsNVNwkAhtQ=="/>
+		<POI MapID="1271" xpos="-653.228" ypos="3.3454" zpos="17.1731" type="sandsweptisles.sand" GUID="olG9sNXgt0uCjj/5Xc70CQ=="/>
+		<POI MapID="1271" xpos="133.023" ypos="0.903268" zpos="-997.987" type="sandsweptisles.sand" GUID="DhnfY+CeZkCMwyth/ZoVmQ=="/>
+		<POI MapID="1271" xpos="-14.3528" ypos="0.558153" zpos="498.363" type="sandsweptisles.sand" GUID="62CD7JTRlUaK/hOnolNjPA=="/>
+		<POI MapID="1271" xpos="697.491" ypos="0.262016" zpos="630.949" type="sandsweptisles.sand" GUID="jQ0vH/UXl0SjOibhVn7rwA=="/>
+		<POI MapID="1271" xpos="669.413" ypos="7.27553" zpos="865.82" type="sandsweptisles.sand" GUID="XBb/yo9ySkei9UeSaK8cew=="/>
+		<POI MapID="1271" xpos="549.345" ypos="0.572031" zpos="728.648" type="sandsweptisles.sand" GUID="SstLuLrJG0mhsNVNwkAhtQ=="/>
+		
+		<!--- Ori Ore -->
+		<POI MapID="1271" xpos="119.496" ypos="95.3063" zpos="784.193" type="sandsweptisles.oriore" GUID="85lsd5q1M0KvbYMkNcTxTg=="/>
+		<POI MapID="1271" xpos="-96.0909" ypos="81.2569" zpos="910.591" type="sandsweptisles.oriore" GUID="H8z6wdEuTkG50dxQOPTZRQ=="/>
+		<POI MapID="1271" xpos="168.675" ypos="46.4291" zpos="168.549" type="sandsweptisles.oriore" GUID="uZtc0CCVqE2leoiK0VEq+g=="/>
+		<POI MapID="1271" xpos="422.255" ypos="24.5061" zpos="639.185" type="sandsweptisles.oriore" GUID="ZtfaiQ+5qEKoHxwWYPnRRQ=="/>
+		<POI MapID="1271" xpos="251.202" ypos="81.6087" zpos="812.198" type="sandsweptisles.oriore" GUID="oilGTt79RUq5yNm0DkXR3Q=="/>
+		<POI MapID="1271" xpos="-430.784" ypos="44.996" zpos="119.453" type="sandsweptisles.oriore" GUID="YUHC/jPCMEaKBt6VdK0Gxw=="/>
+		<POI MapID="1271" xpos="233.224" ypos="101.794" zpos="1116.51" type="sandsweptisles.oriore" GUID="+cUeRjkZIk2me6EllwguOw=="/>
+		<POI MapID="1271" xpos="-350.369" ypos="69.3807" zpos="-528.714" type="sandsweptisles.oriore" GUID="HW/Jssnw3kOgdM3vgYHfbA=="/>
+		<POI MapID="1271" xpos="566.171" ypos="28.9802" zpos="1098.42" type="sandsweptisles.oriore" GUID="42TNEO9KGEG3siMrVa34pg=="/>
+		<POI MapID="1271" xpos="13.3581" ypos="38.3247" zpos="-857.434" type="sandsweptisles.oriore" GUID="sfMBXm3yf0OuM6mAQNLguA=="/>
+		<POI MapID="1271" xpos="-267.352" ypos="91.6539" zpos="959.05" type="sandsweptisles.oriore" GUID="ZPut+YPhdEyXcXlVchVang=="/>
+		<POI MapID="1271" xpos="65.9952" ypos="83.4072" zpos="964.367" type="sandsweptisles.oriore" GUID="zJa9It4AYEq7X5bV/81hWw=="/>
+		<POI MapID="1271" xpos="641.79" ypos="28.216" zpos="1122.27" type="sandsweptisles.oriore" GUID="xYsLzeK6J0OA7n8WNQxj5Q=="/>
+		<POI MapID="1271" xpos="-54.3706" ypos="101.368" zpos="1009.79" type="sandsweptisles.oriore" GUID="71mpZVgvC06vIwEToZOyFQ=="/>
+		<POI MapID="1271" xpos="426.048" ypos="73.8545" zpos="815.137" type="sandsweptisles.oriore" GUID="SADC3esxhEi/xA8F9mNsaw=="/>
+		
+		<!--- Rich Ori Ore -->
+		<POI MapID="1271" xpos="416.14" ypos="14.7854" zpos="594.968" type="sandsweptisles.richoriore" GUID="s4ZaK+tIXUmg6AlTfUD4zg=="/>
+		<POI MapID="1271" xpos="686.043" ypos="40.9071" zpos="648.549" type="sandsweptisles.richoriore" GUID="Y6Y6OyYTfU2YnEX2w7dvCg=="/>
+		<POI MapID="1271" xpos="-568.359" ypos="62.5405" zpos="-91.4887" type="sandsweptisles.richoriore" GUID="AoaJk4liIkm3OPsj5QX5Dw=="/>
+		<POI MapID="1271" xpos="339.863" ypos="101.053" zpos="-389.778" type="sandsweptisles.richoriore" GUID="1IJ1MRgJlUm0pz06jnAifA=="/>
+		<POI MapID="1271" xpos="339.013" ypos="72.3059" zpos="798.981" type="sandsweptisles.richoriore" GUID="/x94RUglMEujKavmnB7sJw=="/>
+		
+		<!--- Ancient Wood -->
+		<POI MapID="1271" xpos="830.395" ypos="4.66772" zpos="-582.174" type="sandsweptisles.ancientwood" GUID="Z5WBAml8/E+MI9j55BXycw=="/>
+		<POI MapID="1271" xpos="232.166" ypos="79.3087" zpos="917.338" type="sandsweptisles.ancientwood" GUID="4g5xkB2gHU6K0sEzKAGhsQ=="/>
+		<POI MapID="1271" xpos="452.267" ypos="6.37934" zpos="-925.172" type="sandsweptisles.ancientwood" GUID="o9EH+Qe2Y0WqikUZNs8JNQ=="/>
+		<POI MapID="1271" xpos="638.887" ypos="37.6441" zpos="677.213" type="sandsweptisles.ancientwood" GUID="P6qfkyPMWk2ZO3Cks8D2BQ=="/>
+		<POI MapID="1271" xpos="-25.9548" ypos="77.144" zpos="-690.318" type="sandsweptisles.ancientwood" GUID="S8hrKbaetkujol/kZtDcsw=="/>
+		<POI MapID="1271" xpos="638.887" ypos="37.6441" zpos="677.213" type="sandsweptisles.ancientwood" GUID="P6qfkyPMWk2ZO3Cks8D2BQ=="/>
+		
+		<!--- Doors -->
+		<POI MapID="1271" xpos="-249.265" ypos="4.27777" zpos="-15.1107" type="sandsweptisles.doors" GUID="0/1E9FNB2U+lUf2+ZrGGxA==" iconFile="Data\si_door_1.png" fadeNear="1200" fadeFar="1200"/>
+		<POI MapID="1271" xpos="-285.438" ypos="6.66024" zpos="39.9288" type="sandsweptisles.doors" GUID="GTWxPbpd40SIl1Z0USEWxA==" iconFile="Data\si_door_2.png" fadeNear="1200" fadeFar="1200"/>
+		<POI MapID="1271" xpos="-343.564" ypos="9.04178" zpos="35.9521" type="sandsweptisles.doors" GUID="uGwnKyVYAE6S9Uy4dZ1Skg==" iconFile="Data\si_door_3.png" fadeNear="1500" fadeFar="1500"/>
+		<POI MapID="1271" xpos="-372.017" ypos="4.84665" zpos="25.4035" type="sandsweptisles.doors" GUID="0tTsE0lYwk2UIe7We3D6bg==" iconFile="Data\si_door_4.png" fadeNear="1200" fadeFar="1200"/>	
+	</POIs>
+</OverlayData>
